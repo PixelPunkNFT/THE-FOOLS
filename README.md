@@ -30,9 +30,9 @@ This project is open source and every contribution is welcome! If you have ideas
 
 ## 🌐 Useful Links
 
-- Website: [thefools.io](https://thefools.io)
-- Smart Contract: [0xE2f767C3c1050123bfDbb0AE732E37b6d369EC4F](https://polygonscan.com/address/0xE2f767C3c1050123bfDbb0AE732E37b6d369EC4F)
-- Marketplace: [OpenSea Collection](https://opensea.io)
+- Website: [WEBSITE]([https://thefools.io](https://thefools.netlify.app/))
+- Smart Contract: [0x401eC1012427D8570Ec260F914E213d642F53bEc](https://polygonscan.com/address/0x401eC1012427D8570Ec260F914E213d642F53bEc)
+- Marketplace: [OpenSea Collection](https://opensea.io/The-Fools)
 
 ## 💡 Support
 
