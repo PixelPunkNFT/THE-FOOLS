@@ -3,6 +3,7 @@
 The Fools is an innovative NFT collection on Polygon that brings medieval jesters' art and culture into the Web3 world. A unique collection of 10,000 NFTs celebrating the irreverent and creative spirit of medieval fools.
 
 src/assets/img/Immagine 2024-12-10 000830.png
+https://github.com/PixelPunkNFT/THE-FOOLS/blob/main/src/assets/img/Immagine%202024-12-10%20000830.png
 
 ## 📜 The Project
 
