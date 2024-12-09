@@ -5,6 +5,8 @@ The Fools is an innovative NFT collection on Polygon that brings medieval jester
 src/assets/img/Immagine 2024-12-10 000830.png
 https://github.com/PixelPunkNFT/THE-FOOLS/blob/main/src/assets/img/Immagine%202024-12-10%20000830.png
 
+ ![Node.js](https://img.shields.io/badge/-Node.js-green)![Express](https://img.shields.io/badge/-Express-blue) ![React](https://img.shields.io/badge/-React-blue)![Redux](https://img.shields.io/badge/-Redux-purple) ![Redux-thunk](https://img.shields.io/badge/-Redux--thunk-purple) ![CSS3](https://img.shields.io/badge/-CSS3-blue)
+
 ## 📜 The Project
 
 The Fools is more than just an NFT collection - it's an immersive experience that combines digital art, gamification, and utility in the blockchain world. Each NFT is algorithmically generated with unique characteristics and different rarity levels.
