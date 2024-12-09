@@ -35,7 +35,7 @@ This project is open source and every contribution is welcome! If you have ideas
 
 ## 🌐 Useful Links
 
-- Website: [Website](https://thefools.netlify.app/)
+- Website: [FOOLS](https://thefools.netlify.app/)
 - Smart Contract: [0x401eC1012427D8570Ec260F914E213d642F53bEc](https://polygonscan.com/address/0x401eC1012427D8570Ec260F914E213d642F53bEc)
 - Marketplace: [OpenSea Collection](https://opensea.io/The-Fools)
 
@@ -44,4 +44,4 @@ This project is open source and every contribution is welcome! If you have ideas
 Any help to improve the project will be greatly appreciated! If you want to contribute or have questions, don't hesitate to reach out.
 
 ---
-*The Fools NFT - Bringing Medieval Fools to Web3* 🎭
+*The Fools NFT - Bringing Fools to Web3* 🎭
