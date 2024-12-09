@@ -1,0 +1,528 @@
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  line-height: 1.5;
+  background-color: #0C0B0B;
+  color: white;
+}
+/* ol,
+ul {
+  list-style: none;
+} */
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+@font-face {
+  font-family: "teletactile";
+  src: local("teletactile"),
+  url(../assets/fonts/Teletactile-3zavL.woff) format("woff");
+}
+
+.font-teletactile {
+  font-family: "teletactile";
+}
+
+.font-size-1-4em {
+  font-size: 1.4em;
+}
+
+.font-size-2-2em {
+  font-size: 2.2em;
+}
+
+body {
+  margin: 0;
+  font-family: "teletactile", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+html {
+  background-color: "#4C4C4C";
+}
+
+/* div {
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -o-user-select: none;
+} */
+
+.cursor-pointer:hover {
+  cursor: pointer;
+}
+
+.menu-selected:hover {
+  text-decoration: underline;
+  
+}
+
+.w-70 {
+  width: 70%;
+}
+
+.w-65 {
+  width: 100%;
+  
+}
+
+.up {
+  position: fixed;
+  z-index: 9999;
+  bottom: 50px;
+  right: 0;
+  display: none;
+  
+  width: 7rem;
+  height: 10rem;
+}
+
+.capitalize {
+  text-transform: uppercase;
+}
+/* react-burger-menu styles */
+
+/* Position and sizing of burger button */
+.bm-burger-button {
+  position: fixed;
+  width: 30px;
+  height: 25px;
+  left: 5px;
+  top: 20px;
+  z-index: 9999;
+}
+
+/* Color/shape of burger icon bars */
+.bm-burger-bars {
+  background: white;
+}
+
+/* Color/shape of burger icon bars on hover*/
+.bm-burger-bars-hover {
+  background: #0C0B0B;
+}
+
+/* Position and sizing of clickable cross button */
+.bm-cross-button {
+  height: 24px;
+  width: 24px;
+}
+
+/* Color/shape of close button cross */
+.bm-cross {
+  background: #bdc3c7;
+}
+
+/*
+Sidebar wrapper styles
+Note: Beware of modifying this element as it can break the animations - you should not need to touch it in most cases
+*/
+.bm-menu-wrap {
+  position: fixed;
+  height: 100%;
+}
+
+/* General sidebar styles */
+.bm-menu {
+  background: #373a47;
+  padding: 2.5em 1.5em 0;
+  font-size: 1.15em;
+}
+
+/* Morph shape necessary with bubble or elastic */
+.bm-morph-shape {
+  fill: #373a47;
+}
+
+/* Wrapper for item list */
+.bm-item-list {
+  color: white;
+}
+
+/* Individual item */
+.bm-item {
+  display: inline-block;
+}
+
+/* Styling of overlay */
+.bm-overlay {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+.menu-item {
+  margin-bottom: 50px;
+}
+
+.border-x-2 {
+  border-left: 2px solid white;
+  border-right: 2px solid white;
+}
+
+
+.border-1-white {
+  border: 1px solid white;
+}
+
+.border-radius-10 {
+  border-radius: 10px;
+}
+
+.sticky-header {
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+
+.accordion-button:not(.collapsed) {
+  color: white;
+  background-color: #1c1b1b;
+  border-color: blue;
+}
+
+.accordion-button {
+  color: white;
+  background-color: #1c1b1b;
+  box-shadow: none;
+}
+
+.accordion-button:not(.collapsed)::after {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23212529'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+}
+
+.accordion-button:focus {
+  border-color: white;
+  box-shadow: none;
+}
+
+.accordion-collapse {
+  background-color: black;
+}
+
+.background-color-black {
+  background-color: black;
+}
+
+.accordion-item:not(:first-of-type) {
+  border-top: 1px solid white;
+}
+
+.accordion-item {
+  margin-bottom: 40px;
+  /* border-top: 1px solid white; */
+  border-top-left-radius: calc(0.25rem - 1px);
+  border-top-right-radius: calc(0.25rem - 1px);
+  border-bottom-right-radius: calc(0.25rem - 1px);
+  border-bottom-left-radius: calc(0.25rem - 1px);
+}
+
+.border-l-0 {
+  border-left: 0;
+}
+
+.border-r-0 {
+  border-right: 0;
+}
+
+.rarities-header {
+  background-color: #1c1b1b;
+}
+
+.padding-15px {
+  padding: 15px
+}
+
+.border-l-1-white {
+  border-left: 1px solid white;
+}
+
+.border-r-1-white {
+  border-right: 1px solid white;
+}
+
+.border-b-1-white {
+  border-bottom: 1px solid white;
+}
+
+.border-t-1-white {
+  border-top: 1px solid white;
+}
+
+.border-1-white {
+  border: 1px solid white;
+}
+
+.accordion-button::after {
+  background-color: white;
+  border-radius: 50px;
+}
+
+.dot {
+  height: 25px;
+  width: 25px;
+  background-color: white;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.break-word {
+  word-wrap:break-word;
+}
+
+@media (min-width: 576px) { 
+  .bm-burger-button {
+    display: none;
+  }
+
+  
+}
+
+/* bootstrap media queries */
+/* @media (min-width: 576px) { ... }
+@media (min-width: 768px) { ... }
+@media (min-width: 992px) { ... }
+@media (min-width: 1200px) { ... }
+@media (min-width: 1400px) { ... } */
+
+.w-10 {
+  width: 10%;
+}
+
+
+
+.network-position {
+  position: fixed;
+  /* top: 69px; */
+  /* right: 24px; */
+}
+
+.home-wallpaper {
+  position: relative;
+  /* text-align: center;
+  color: white; */
+}
+
+.home-wallpaper-text {
+  width: 100%;
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.font-size-60px {
+  font-size: 60px;
+}
+
+.mint-home-bg {
+  background-color: rgb(255 255 255 / 8%);
+}
+
+.mint-home:hover {
+  color: black;
+  background-color: rgb(255 255 255 / 60%);
+  border-color: black;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.font-size-14px {
+  font-size: 14px;
+}
+
+.max-width-200px {
+  max-width: 200px;
+}
+
+.min-width-200px {
+  min-width: 200px;
+}
+
+.max-width-300px {
+  max-width: 300px;
+}
+
+.my-50px {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.my-100px {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.mb-50px {
+  margin-bottom: 50px;
+}
+
+.mb-100px {
+  margin-bottom: 100px;
+}
+
+.home-mint-btn {
+  color: white;
+  background-color: black;
+  border: 2px solid rgb(235, 8, 8);
+  
+  
+
+}
+
+.home-mint-btn:hover {
+  color: black;
+  background-color: rgb(26, 145, 200);
+  border: 2px solid rgb(199, 11, 11);
+  
+  
+  
+}
+
+.navlink-style {
+  color: white !important;
+  text-decoration: none;
+}
+
+.min-width-300px {
+  min-width: 300px;
+}
+
+.h-60vh {
+  height: 60vh;
+}
+
+.cow-card:hover {
+
+  border: 2px solid white;
+  border-radius: 10px;
+
+}
+
+.row {
+  --bs-gutter-x: 0rem;
+}

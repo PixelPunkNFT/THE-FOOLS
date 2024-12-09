@@ -1,0 +1,39 @@
+
+/*Variables styles*/
+@import "variables.css";
+
+/*General styles*/
+@import "general.css";
+
+@import "main-screen.css";
+@import "collections.css";
+@import "video.css";
+@import "team.css";
+@import "steps.css";
+@import "person.css";
+@import "gallery-section.css";
+@import "news.css";
+@import "accordion.css";
+@import "footer.css";
+@import "strategy.css";
+@import "drop.css";
+@import "information.css";
+
+::-webkit-scrollbar {
+    display: none;
+}
+.fa {
+    padding: 10px;
+    font-size: 20px;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+
+  
+
+  
+ 
+
+
