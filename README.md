@@ -25,6 +25,8 @@ The Fools is more than just an NFT collection - it's an immersive experience tha
 - **Gallery View**: View your NFT collection
 - **Rarity Checker**: System to verify the rarity of your NFTs
 
+  ![Cattura.PNG](https://github.com/PixelPunkNFT/THE-FOOLS/blob/main/src/Progetto%20senza%20titolo%20(1).gif)
+
 ## 🤝 Contributions
 
 This project is open source and every contribution is welcome! If you have ideas to improve the project or want to report bugs, feel free to:
