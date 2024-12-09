@@ -21,15 +21,15 @@
     "react-error-overlay": "6.0.9",
     "react-redux": "^7.2.4",
     "react-router-dom": "^6.3.0",
-    "react-scripts": "4.0.3",
+    "react-scripts": "^4.0.3",
     "redux": "^4.1.1",
     "redux-thunk": "^2.3.0",
     "web-vitals": "^1.0.1",
     "web3": "^1.5.1"
   },
   "scripts": {
-    "start": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts start",
-    "build": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts build",
+    "start": "react-scripts start",
+    "build": "CI=false GENERATE_SOURCEMAP=false react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -53,7 +53,6 @@
   },
   "description": "nft dapp minting",
   "main": "index.js",
-  "devDependencies": {},
   "author": "",
   "license": "ISC"
 }
