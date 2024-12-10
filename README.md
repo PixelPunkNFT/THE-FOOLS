@@ -35,15 +35,14 @@ The Fools is more than just an NFT collection - it's an immersive experience tha
 - **Main Contributions:**
   - Entirely hand-crafted creation of all FOOLS traits
  
-
-    ### [Yuri Moretti](https://github.com/PixelPunkNFT)
+### [Yuri Moretti](https://github.com/PixelPunkNFT)
 - **Role:** Developer
 - **Main Contributions:**  
   - Duplication of NFTs with metadata  
   - Development of an NFT dApp with smart contract integration in Solidity  
   - Implementation of updates and feature enhancements
  
-     ### [Simone Saturno](https://github.com/Simoblaster)
+ ### [Simone Saturno](https://github.com/Simoblaster)
 - **Role:** Developer
 - **Main Contributions:**  
   - Provided the source code for their minting dApp, which later evolved into The Fools dApp  
