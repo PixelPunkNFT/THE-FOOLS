@@ -39,7 +39,7 @@ The Fools is more than just an NFT collection - it's an immersive experience tha
 - **Role:** Developer
 - **Main Contributions:**  
   - Duplication of NFTs with metadata  
-  - Development of an NFT dApp with smart contract integration in Solidity  
+  - Modification and implementation of an NFT dApp with smart contract integration in Solidity  
   - Implementation of updates and feature enhancements
  
  ### [Simone Saturno](https://github.com/Simoblaster)
