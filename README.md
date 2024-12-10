@@ -1,6 +1,11 @@
 # 🎭 The Fools NFT
 
-The Fools is an innovative NFT collection on Polygon that brings medieval jesters' art and culture into the Web3 world. A unique collection of 10,000 NFTs celebrating the irreverent and creative spirit of medieval fools.
+![Node.js](https://img.shields.io/badge/-Node.js-green)![Express](https://img.shields.io/badge/-Express-blue) ![React](https://img.shields.io/badge/-React-blue)![Redux](https://img.shields.io/badge/-Redux-purple) ![Redux-thunk](https://img.shields.io/badge/-Redux--thunk-purple) ![CSS3](https://img.shields.io/badge/-CSS3-blue)
+
+## The Fools is an innovative NFT collection on Polygon that brings  jesters' art and culture into the Web3 world. A unique collection of 200 NFTs celebrating the irreverent and creative spirit of  fools.
+ 
+
+ ![Cattura.PNG](https://github.com/PixelPunkNFT/THE-FOOLS/blob/main/src/assets/img/Immagine%202024-12-10%20000830.png)
 
 ## 📜 The Project
 
@@ -20,6 +25,8 @@ The Fools is more than just an NFT collection - it's an immersive experience tha
 - **Gallery View**: View your NFT collection
 - **Rarity Checker**: System to verify the rarity of your NFTs
 
+  ![Cattura.PNG](https://github.com/PixelPunkNFT/THE-FOOLS/blob/main/src/Progetto%20senza%20titolo%20(1).gif)
+
 ## 🤝 Contributions
 
 This project is open source and every contribution is welcome! If you have ideas to improve the project or want to report bugs, feel free to:
@@ -30,13 +37,13 @@ This project is open source and every contribution is welcome! If you have ideas
 
 ## 🌐 Useful Links
 
-- Website: [thefools.io](https://thefools.io)
-- Smart Contract: [0xE2f767C3c1050123bfDbb0AE732E37b6d369EC4F](https://polygonscan.com/address/0xE2f767C3c1050123bfDbb0AE732E37b6d369EC4F)
-- Marketplace: [OpenSea Collection](https://opensea.io)
+- Website: [FOOLS](https://thefools.netlify.app/)
+- Smart Contract: [0x401eC1012427D8570Ec260F914E213d642F53bEc](https://polygonscan.com/address/0x401eC1012427D8570Ec260F914E213d642F53bEc)
+- Marketplace: [OpenSea Collection](https://opensea.io/The-Fools)
 
 ## 💡 Support
 
 Any help to improve the project will be greatly appreciated! If you want to contribute or have questions, don't hesitate to reach out.
 
 ---
-*The Fools NFT - Bringing Medieval Fools to Web3* 🎭
+*The Fools NFT - Bringing Fools to Web3* 🎭
