@@ -7,3 +7,8 @@
   NPM_VERSION = "8"
   CI = ""
   GENERATE_SOURCEMAP = "false"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
