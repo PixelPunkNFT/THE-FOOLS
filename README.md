@@ -1,5 +1,4 @@
 # 🎭 The Fools NFT
-
 ![Node.js](https://img.shields.io/badge/-Node.js-green)![Express](https://img.shields.io/badge/-Express-blue) ![React](https://img.shields.io/badge/-React-blue)![Redux](https://img.shields.io/badge/-Redux-purple) ![Redux-thunk](https://img.shields.io/badge/-Redux--thunk-purple) ![CSS3](https://img.shields.io/badge/-CSS3-blue)
 
 ## The Fools is an innovative NFT collection on Polygon that brings  jesters' art and culture into the Web3 world. A unique collection of 200 NFTs celebrating the irreverent and creative spirit of  fools.
@@ -26,6 +25,16 @@ The Fools is more than just an NFT collection - it's an immersive experience tha
 - **Rarity Checker**: System to verify the rarity of your NFTs
 
   ![Cattura.PNG](https://github.com/PixelPunkNFT/THE-FOOLS/blob/main/src/assets/img/Immagine%202024-12-10%20011715.png)
+
+
+
+  ## Contributors
+
+### [Leonardo Pericoli](https://github.com/SolidLeoz)
+- **Role:** Digital Art Creator
+- **Main Contributions:**
+  - Entirely hand-crafted creation of all FOOLS traits
+
 
 ## 🤝 Contributions
 
