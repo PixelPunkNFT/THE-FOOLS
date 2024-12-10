@@ -35,7 +35,7 @@ The Fools is more than just an NFT collection - it's an immersive experience tha
 - **Main Contributions:**
   - Entirely hand-crafted creation of all FOOLS traits
  
-### [Yuri Moretti](https://github.com/PixelPunkNFT)
+### [Juri Moretti](https://github.com/PixelPunkNFT)
 - **Role:** Developer
 - **Main Contributions:**  
   - Duplication of NFTs with metadata  
