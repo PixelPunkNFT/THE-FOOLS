@@ -60,7 +60,7 @@ This project is open source and every contribution is welcome! If you have ideas
 
 - Website: [FOOLS](https://thefools.netlify.app/)
 - Smart Contract: [0x401eC1012427D8570Ec260F914E213d642F53bEc](https://polygonscan.com/address/0x401eC1012427D8570Ec260F914E213d642F53bEc)
-- Marketplace: [OpenSea Collection](https://opensea.io/The-Fools-2)
+- Marketplace: [OpenSea Collection](https://opensea.io/collection/the-fools-2)
 
 ## 💡 Support
 
